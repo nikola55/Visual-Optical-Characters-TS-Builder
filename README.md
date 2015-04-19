@@ -16,3 +16,7 @@ It is easy to use:
 5. Pick the line you want to segment and perform sliding window through it.
 
 6. On each slide mark the example as either positive or negative  (The examples will be saved in the corresponding folder from step 2).
+
+A sample screenshot from the UI.
+
+![alt tag](http://s28.postimg.org/g3vfiyqfh/Untitled.png)
